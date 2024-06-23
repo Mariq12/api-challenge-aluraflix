@@ -44,7 +44,11 @@
 
     https://my-json-server.typicode.com/Mariq12/api-challenge-aluraflix
    
-    Para acceder al servidor
+    Para acceder al servidor.
+
+   https://my-json-server.typicode.com/Mariq12/api-challenge-aluraflix/videos
+   
+   Para obtener los videos.
 
 ## Más información
 En [My JSON Server](https://my-json-server.typicode.com/)
